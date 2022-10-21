@@ -1,0 +1,67 @@
+h1 { margin: auto;
+    color: rgb(125, 110, 131);
+    padding-top: 25px;
+    position: relative; bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+a {
+
+    text-decoration: none;
+    text-decoration: rgb(208, 184, 168);
+    background: rgb(208, 184, 168);
+    border-radius: 5px;
+    border: 10px;
+    border-width: 10spx;
+    font-size: 1.2em;
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body { text-align: center;
+background-color: rgb(248, 237, 227)
+;}
+
+.three { position: relative; right: 10px;}
+.two { position: relative; left: 10px;}
+
+p{padding-top: 30px;
+font-size: 18px;
+letter-spacing: 2px;
+font-family: 'Raleway', sans-serif;}
+img {
+    padding-top: 20px;
+}
+a:hover{ background-color: rgb(223, 211, 195);
+border: 2px rgb(208, 184, 168);}
+.diger,.orta-1,.orta-2,.store-h2 {
+    position: relative; top: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+.orta, .orta-2 {
+    display: inline-flex;
+}
+.ibadah {
+    float: right;
+}
+ul {font-family: 'Raleway', sans-serif;
+letter-spacing: 1px;	
+word-spacing: 2px;
+padding-left: 500px;
+display:block;
+margin: 0 auto;
+padding-top: 4px;
+}
+
+li{text-align: left;
+padding-top: 2px;
+}
+.lastone {
+    padding-left: 550px;
+}
+.firstone {
+    padding-top: 5px;
+}
+
